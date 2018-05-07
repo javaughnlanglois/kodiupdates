@@ -1,5 +1,5 @@
 name="Arctic Zephyr: Canadian Shield"
-version="3.10"
+version="4.0"
 url="https://www.dropbox.com/s/3xpetut1yesbuyh/Build.zip?dl=1"
 gui="http://"
 kodi="17.6"
